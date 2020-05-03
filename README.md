@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/enadol/fbjsonrobot) 
+
 # fbjsonrobot
 ## A Python robot that converts bundesliga .txt files from @geraldb ' s openfootball into JSON with the required structure.
 
